@@ -13,7 +13,7 @@
 
 * ✅ Serve para você ter uma visão panorâmica dos fundamentos do Python.
 * ✅ Muito útil para iniciantes no mundo da programação.
-* ✅ Mostra o que um aluna precisa estudar para conhecer não apenas a linguagem, mas a lógica de programação.
+* ✅ Mostra o que um aluno precisa estudar para conhecer não apenas a linguagem, mas a lógica de programação.
 * ✅ Muito recomendado para professores que querem ensinar os iniciantes.
 
 ## ESTRUTURA:
@@ -35,4 +35,4 @@
 ### 05) FUNÇOES:
 * ↪️ As funções em Python servem para deixar o desenvolvimento de soluções digitais mais práticas, automatizadas, organizadas e dinâmicas. Isso porque elas moldam os códigos, permitindo que eles sejam reutilizados. Ou seja, quando aparece a necessidade, você não precisa repetir as mesmas instruções diversas vezes. Elas são declaradas com "def nome():". E são chamadas com "import nome" ou "from sobrenome import nome". Gosto de dividir as funções em 2 CATEGORIAS:
 * ⏺️FUNÇÕES INTERNAS: São funções que você cria. Elas estão na mesma pasta do seu script principal.
-* ⏺️FUNÇÕES EXTERNAS: São funçoes criadas por outros (API). Elas são conheciadas como módulos (Arquivos) ou pacotes (Diretórios). Geralmente elas não estão na mesma pasta do seu script principal. Para serem usadas, elas precisam estar instaladas na sua maquina ou serem chamadas via url. A função mais famosa (Está na documentação) é o "pygame".
+* ⏺️FUNÇÕES EXTERNAS: São funções criadas por outros (API). Elas são conhecidas como módulos (Arquivos) ou pacotes (Diretórios). Geralmente elas não estão na mesma pasta do seu script principal. Para serem usadas, elas precisam estar instaladas na sua maquina ou serem chamadas via url. A função mais famosa (Está na documentação) é o "pygame".
