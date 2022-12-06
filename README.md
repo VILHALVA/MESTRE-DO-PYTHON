@@ -4,8 +4,8 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MEU%20PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20EM%20CONTATO-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA20_BOT) <br>
 
-[![GitHub Repo stars](https://img.shields.io/badge/GRUPO%20CHAT-TELEGRAM-03A9F4?logo=telegram)](https://t.me/GUPOCN)
-[![GitHub Repo stars](https://img.shields.io/badge/CANAL%20OFICIAL-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CANALCN) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/GRUPO%20CODERS-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CODIGOPG)
+[![GitHub Repo stars](https://img.shields.io/badge/CANAL%20OCODERS-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CODIGOCN) <br>
 
 <img src="https://marquesfernandes.com/wp-content/uploads/2020/08/kwi4bvgzths31.jpg" align="right" width="250">
 
