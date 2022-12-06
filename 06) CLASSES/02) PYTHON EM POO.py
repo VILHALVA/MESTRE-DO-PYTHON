@@ -40,12 +40,12 @@ class Pessoa():
             self.comendo = False
 
 #--------------- PARTICIPANTES DO JANTAR: --------------------------    
-p1 = Pessoa("Samuel", 26)
-p2 = Pessoa("Daniel", 22)
-p3 = Pessoa("João", 32)
-p4 = Pessoa("Valcilda", 46)
-p5 = Pessoa("Jaqueline", 8)
-p6 = Pessoa("Caroline", 7)
+p1 = Pessoa("Nome1", 26)
+p2 = Pessoa("Nome2", 22)
+p3 = Pessoa("Nome3", 32)
+p4 = Pessoa("Nome4", 46)
+p5 = Pessoa("Nome5", 8)
+p6 = Pessoa("Nome6", 7)
 
 #------------------ AÇÕES DOS PARTICIPANTES: ---------------------------
 p1.comer("Macarrão com queijo")
