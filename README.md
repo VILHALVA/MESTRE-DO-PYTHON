@@ -32,7 +32,7 @@
 * ⏺️ LISTAS: São Mutavéis. Seus dados podem ser chamados via indice númerico (Não pode personalizar). Elas usam colchetes [ ].
 * ⏺️ DICIONÁRIOS: São Mutavéis. Seus dados podem ser chamados via nome (Pode personalizar). Elas usam chaves { }.
 
-### 05) FUNÇOES:
+### 05) FUNÇÕES:
 * ↪️ As funções em Python servem para deixar o desenvolvimento de soluções digitais mais práticas, automatizadas, organizadas e dinâmicas. Isso porque elas moldam os códigos, permitindo que eles sejam reutilizados. Ou seja, quando aparece a necessidade, você não precisa repetir as mesmas instruções diversas vezes. Elas são declaradas com "def nome():". E são chamadas com "import nome" ou "from sobrenome import nome". Gosto de dividir as funções em 2 CATEGORIAS:
 * ⏺️FUNÇÕES INTERNAS: São funções que você cria. Elas estão na mesma pasta do seu script principal.
 * ⏺️FUNÇÕES EXTERNAS: São funções criadas por outros (API). Elas são conhecidas como módulos (Arquivos) ou pacotes (Diretórios). Geralmente elas não estão na mesma pasta do seu script principal. Para serem usadas, elas precisam estar instaladas na sua maquina ou serem chamadas via url. A função mais famosa (Está na documentação) é o "pygame".
