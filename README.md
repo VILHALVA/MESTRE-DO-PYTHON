@@ -29,8 +29,8 @@
 ### 04) VARIAVEIS COMPOSTAS:
 * ↪️ Diferente da "Variavel Simples" (Uma Variavel só pode amarzenar um único dado). Na "Variavel Composta" uma unica Variavel pode armazenar varios dados (Até de Tipos diferentes). No python, temos 3 Tipos de Variaveis Compostas:
 * ⏺️ TUPLAS: São Imutaveis (Não aceitam Inputs). Elas usam parenteses ( ).
-* ⏺️ LISTAS: São Mutavéis. Seus dados podem ser chamados via indice númerico (Não pode personalizar). Elas usam colchetes [ ].
-* ⏺️ DICIONÁRIOS: São Mutavéis. Seus dados podem ser chamados via nome (Pode personalizar). Elas usam chaves { }.
+* ⏺️ LISTAS: São Mutavéis (Aceitam Inputs). Seus dados podem ser chamados via indice númerico (Não pode personalizar). Elas usam colchetes [ ].
+* ⏺️ DICIONÁRIOS: São Mutavéis (Aceitam Inputs). Seus dados podem ser chamados via nome (Pode personalizar). Elas usam chaves { }.
 
 ### 05) FUNÇÕES:
 * ↪️ As funções em Python servem para deixar o desenvolvimento de soluções digitais mais práticas, automatizadas, organizadas e dinâmicas. Isso porque elas moldam os códigos, permitindo que eles sejam reutilizados. Ou seja, quando aparece a necessidade, você não precisa repetir as mesmas instruções diversas vezes. Elas são declaradas com "def nome():". E são chamadas com "import nome" ou "from nome import sobrenome" ou "from nome import*"; Assim como "nome()". Gosto de dividir as funções em 2 CATEGORIAS:
